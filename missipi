@@ -1,0 +1,14 @@
+def most_frequency(s):
+ll=[]
+  lcpend(i)
+      lc.append(s.count(i))
+      while len(ll)>0:
+      print(ll[lc.i=[]
+  for i in s:
+    if i not in ll:
+      ll.apndex(max(lc))]",=",
+              max(lc)))
+        ii.pop(lc.index(max(lc)))
+        lc.pop(lc.index(max(lc))))
+        a=input("please enter a string:")
+        most_frequent(a)
